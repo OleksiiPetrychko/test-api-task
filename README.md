@@ -1,6 +1,11 @@
 # test-api-task
 
+**Requirements:**
+- Java 1.8 + SDK
+- Maven
+
 **TomcatWebServer** --> localhost:8080
+
 **DB** --> H2 console available at '/h2-console'
 
 **Java AQA:**
