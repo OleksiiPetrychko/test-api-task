@@ -4,6 +4,10 @@
 - Java 1.8 + SDK
 - Maven
 
+**To run application-->**
+- in command line --> mvn spring-boot:run
+- in Idea --> TestapiApplication - RUN 
+
 **TomcatWebServer** --> localhost:8080
 
 **DB** --> H2 console available at '/h2-console'
